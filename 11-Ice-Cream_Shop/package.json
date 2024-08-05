@@ -1,0 +1,19 @@
+{
+  "name": "16-ice-cream_shop",
+  "version": "1.0.0",
+  "description": "ICE-CREAM SHOP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RAHEEM VEER",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

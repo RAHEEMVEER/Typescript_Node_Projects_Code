@@ -1,0 +1,20 @@
+{
+  "name": "rv5-adventure-game",
+  "version": "1.1.0",
+  "description": "ADVANTURE GAME.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RAHEEM VEER",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
